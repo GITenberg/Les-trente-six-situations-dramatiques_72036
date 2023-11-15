@@ -1,0 +1,27 @@
+_repo: Les-trente-six-situations-dramatiques_72036
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Polti, Georges
+    gutenberg_agent_id: '56509'
+    url: http://www.gutenberg.org/2009/agents/56509
+description: ''
+gutenberg_issued: '2023-11-05'
+identifiers:
+  gutenberg: '72036'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=LG5IAQAAMAAJ
+pgterms:marc905: 20230121044903polti
+pgterms:marc906: '1895'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aParis :$bMercure de France, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les trente-six situations dramatiques
+url: http://www.gutenberg.org/ebooks/72036
