@@ -1,11 +1,16 @@
 _repo: Les-trente-six-situations-dramatiques_72036
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72036-h/images/cover.jpg
 creator:
   author:
     agent_name: Polti, Georges
     gutenberg_agent_id: '56509'
     url: http://www.gutenberg.org/2009/agents/56509
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72036#Les-trente-six-situations-dramatiques
 gutenberg_issued: '2023-11-05'
 identifiers:
   gutenberg: '72036'
